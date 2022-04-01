@@ -1,4 +1,5 @@
 homework requirements!
+
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
@@ -15,8 +16,14 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
+
+
 notes: 
+
 it's unfortunately not funnctioning as much as I would like it too, however I feel like I got a decent set of bones but just couldn't figure out how to
 stitch it all togther to make the generator work properly. definitely a challenge but I feel like I leaned alot!
 
+
 link to website:
+
+https://queenofbirbs.github.io/passwordgeneratorhomework/
